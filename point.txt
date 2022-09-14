@@ -1,0 +1,45 @@
+
+                                    left eye                          right eye
+                                    (524 637)                        (587 637)          
+
+                left ear                                                                right ear
+                (487 662)                                                               (637 637)
+
+                                                    
+                                                           nose
+                                                         (562 674)
+
+
+
+
+
+
+
+                                                             neck
+            sholder  left 424 836                           (574 836)                                     724 824 sholder right 
+
+
+
+
+left hand middle   399 1099                                                                                 right hand middle   737 1074
+
+
+
+
+
+
+left hand palm   512 1299                                                                              right hand   palm       662 1249
+
+
+
+
+
+
+
+
+
+
+
+
+
+left leg  437 1586                                                                                         right leg  762 1586
